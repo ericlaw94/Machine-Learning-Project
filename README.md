@@ -19,6 +19,7 @@ The results are reported as the accuracy of each classifier, using the following
 - F1-score
 - Accuracy
 
+**Summary of findings**
 
 | Algorithm          | Accuracy | Jaccard  | F1-score | LogLoss |
 | ------------------ | -------- | -------- | -------- | ------- |
