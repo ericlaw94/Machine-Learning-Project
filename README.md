@@ -12,12 +12,12 @@ Support Vector Machine and Logistic Regreession to predict the basketball teams 
 
 Upcoming Project 
 
-Build an e-mail spam classifier.
-Perform sentiment analysis and analyze customer reviews for Amazon Alexa products.
-Logistic Regression -Predict the survival rates of the titanic based on the passenger features (Done)
-Predict customer behavior towards targeted marketing ads on Facebook.
-Predicting bank client’s eligibility to retire given their features such as age and 401K savings. 
-Predict cancer and Kyphosis diseases.
-Detect fraud in credit card transactio
+- Build an e-mail spam classifier.
+- Perform sentiment analysis and analyze customer reviews for Amazon Alexa products.
+- Logistic Regression -Predict the survival rates of the titanic based on the passenger features (Done)
+- Predict customer behavior towards targeted marketing ads on Facebook.
+- Predicting bank client’s eligibility to retire given their features such as age and 401K savings. 
+- Predict cancer and Kyphosis diseases.
+- Detect fraud in credit card transactio
 
 
