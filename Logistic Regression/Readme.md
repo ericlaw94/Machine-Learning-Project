@@ -1,6 +1,7 @@
 # Logistic Regression Project - Titanic Survival Rate 
 
-![Titanic.jpg](attachment:Titanic.jpg)
+![Titanic](https://user-images.githubusercontent.com/70788301/112708818-43c14680-8eef-11eb-928f-6af2b3fe9961.jpg)
+
 
 **Introduction**
 
